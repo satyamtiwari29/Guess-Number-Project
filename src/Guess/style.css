@@ -1,0 +1,26 @@
+.parentcontainer{
+  width :100vw;
+  height :100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.container{
+  background-color :blue;
+  width :70%;
+  height:50%;
+}
+.button1{
+  margin: 0 20px;
+    width: 14%;
+    height: 26px;
+}
+.button2{
+  width: 19%;
+    height: 26px;
+}
+input{
+  width: 36%;
+    height: 24px;
+}
